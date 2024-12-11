@@ -1,0 +1,138 @@
+[05:15:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05:15:08] [ServerMain/INFO]: Loaded 1370 recipes
+[05:15:08] [ServerMain/INFO]: Loaded 1481 advancements
+[05:15:09] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[05:15:09] [Server thread/INFO]: Loading properties
+[05:15:09] [Server thread/INFO]: Default game type: SURVIVAL
+[05:15:09] [Server thread/INFO]: Generating keypair
+[05:15:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:15:09] [Server thread/INFO]: Using epoll channel type
+[05:15:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:15:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:15:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:15:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:15:09] [Server thread/INFO]: Preparing level "world"
+[05:15:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:15:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:15:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:15:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:15:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:15:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:15:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:15:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:15:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:15:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:15:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:15:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:15:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:15:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:15:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:15:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:15:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:15:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:15:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:15:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:15:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:15:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:15:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:15:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:15:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:15:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:15:22] [Server thread/INFO]: Time elapsed: 12235 ms
+[05:15:22] [Server thread/INFO]: Done (12.658s)! For help, type "help"
+[05:15:22] [Server thread/INFO]: AdrianadeStoyko (/187.188.33.140:4050) lost connection: Disconnected
+[05:15:43] [Server thread/INFO]: GDPurity[/38.57.177.22:63240] logged in with entity id 5 at (719.7185177976647, 78.0, -822.2964951392977)
+[05:15:43] [Server thread/INFO]: GDPurity joined the game
+[05:15:45] [Server thread/INFO]: AdrianadeStoyko[/187.188.33.140:3155] logged in with entity id 175 at (717.6556438466382, 75.0, -828.0900494645532)
+[05:15:45] [Server thread/INFO]: AdrianadeStoyko joined the game
+[05:16:02] [Server thread/INFO]: stoykoooo[/189.203.69.55:54211] logged in with entity id 245 at (724.1793019470293, 74.5, -832.5498481535078)
+[05:16:02] [Server thread/INFO]: stoykoooo joined the game
+[05:16:09] [Server thread/INFO]: GDPurity lost connection: Disconnected
+[05:16:09] [Server thread/INFO]: GDPurity left the game
+[05:16:12] [Server thread/INFO]: GDPurity[/38.57.177.22:63243] logged in with entity id 249 at (722.8974037012865, 75.5, -835.1786986038012)
+[05:16:12] [Server thread/INFO]: GDPurity joined the game
+[05:18:52] [Server thread/INFO]: [stoykoooo: Teleported AdrianadeStoyko to 603.500000, 121.000000, -815.500000]
+[05:18:59] [Server thread/INFO]: [Not Secure] <stoykoooo> Como le hago aqui?
+[05:19:05] [Server thread/INFO]: [Not Secure] <GDPurity> pon una losa
+[05:19:22] [Server thread/INFO]: [stoykoooo: Teleported GDPurity to stoykoooo]
+[05:20:33] [Server thread/INFO]: [Not Secure] <GDPurity> con esacaleras
+[05:21:16] [Server thread/INFO]: [Not Secure] <stoykoooo> en el video sale bien :v
+[05:21:25] [Server thread/INFO]: [Not Secure] <stoykoooo> OOOH
+[05:21:27] [Server thread/INFO]: [Not Secure] <stoykoooo> YA SE
+[05:21:32] [Server thread/INFO]: [Not Secure] <stoykoooo> Xddddd
+[05:22:16] [Server thread/INFO]: [Not Secure] <GDPurity> ponlo
+[05:22:31] [Server thread/INFO]: [stoykoooo: Set the time to 1000]
+[05:22:53] [Server thread/INFO]: [Not Secure] <stoykoooo> esta igual?
+[05:23:11] [Server thread/INFO]: [Not Secure] <GDPurity> se mira raro
+[05:23:15] [Server thread/INFO]: [stoykoooo: Teleported GDPurity to stoykoooo]
+[05:23:20] [Server thread/INFO]: [stoykoooo: Teleported GDPurity to stoykoooo]
+[05:23:27] [Server thread/INFO]: [Not Secure] <stoykoooo> ya vi
+[05:23:32] [Server thread/INFO]: [Not Secure] <GDPurity> un bloque
+[05:25:25] [Server thread/INFO]: [Not Secure] <stoykoooo> ya?
+[05:25:39] [Server thread/INFO]: [Not Secure] <GDPurity> está vhueqio
+[05:25:41] [Server thread/INFO]: [Not Secure] <GDPurity> chueco
+[05:25:54] [Server thread/INFO]: [Not Secure] <stoykoooo> xD
+[05:25:55] [Server thread/INFO]: [Not Secure] <GDPurity> no está centrado
+[05:27:24] [Server thread/INFO]: [Not Secure] <stoykoooo> ya?
+[05:27:28] [Server thread/INFO]: [Not Secure] <GDPurity> ya
+[05:27:45] [Server thread/INFO]: [Not Secure] <GDPurity> reemplaza los bloques de la derecha
+[05:27:56] [Server thread/INFO]: [Not Secure] <GDPurity> Y si le pones una losa
+[05:27:58] [Server thread/INFO]: [Not Secure] <GDPurity> _?
+[05:28:21] [Server thread/INFO]: [Not Secure] <stoykoooo> si funciono
+[05:28:39] [Server thread/INFO]: [stoykoooo: Teleported AdrianadeStoyko to 603.500000, 121.000000, -815.500000]
+[05:29:07] [Server thread/INFO]: [Not Secure] <GDPurity> te falta una escalera
+[05:29:33] [Server thread/INFO]: [Not Secure] <GDPurity> al otro lado también
+[05:29:49] [Server thread/INFO]: GDPurity lost connection: Disconnected
+[05:29:49] [Server thread/INFO]: GDPurity left the game
+[05:30:11] [Server thread/INFO]: GDPurity[/38.57.177.22:63338] logged in with entity id 2515 at (672.8270739348997, 71.0, -828.8931903227675)
+[05:30:11] [Server thread/INFO]: GDPurity joined the game
+[05:30:33] [Server thread/INFO]: [Not Secure] <stoykoooo> me iba a dar algo
+[05:30:35] [Server thread/INFO]: [Not Secure] <stoykoooo> no me salia
+[05:30:48] [Server thread/INFO]: [stoykoooo: Teleported stoykoooo to GDPurity]
+[05:31:03] [Server thread/INFO]: [Not Secure] <stoykoooo> ya se ve bien no?
+[05:31:19] [Server thread/INFO]: [stoykoooo: Teleported stoykoooo to AdrianadeStoyko]
+[05:31:19] [Server thread/INFO]: [Not Secure] <GDPurity> sí
+[05:31:26] [Server thread/INFO]: [Not Secure] <GDPurity> aunque le falta algo ahí en medio
+[05:31:35] [Server thread/INFO]: [stoykoooo: Teleported stoykoooo to GDPurity]
+[05:32:33] [Server thread/INFO]: GDPurity lost connection: Disconnected
+[05:32:33] [Server thread/INFO]: GDPurity left the game
+[05:32:43] [Server thread/INFO]: [stoykoooo: Teleported stoykoooo to AdrianadeStoyko]
+[05:32:51] [Server thread/INFO]: GDPurity[/38.57.177.22:63364] logged in with entity id 2842 at (669.3014624550494, 72.0, -825.3905951833899)
+[05:32:51] [Server thread/INFO]: GDPurity joined the game
+[05:33:22] [Server thread/INFO]: [stoykoooo: Set the time to 1000]
+[05:34:00] [Server thread/INFO]: [Not Secure] <GDPurity> ¿Y cómo se sube al segundo piso?
+[05:34:05] [Server thread/INFO]: [stoykoooo: Teleported AdrianadeStoyko to 603.500000, 121.000000, -815.500000]
+[05:34:11] [Server thread/INFO]: [Not Secure] <stoykoooo> por afuera
+[05:34:13] [Server thread/INFO]: [Not Secure] <GDPurity> ah
+[05:34:46] [Server thread/INFO]: [stoykoooo: Teleported AdrianadeStoyko to stoykoooo]
+[05:35:56] [Server thread/INFO]: [stoykoooo: Teleported AdrianadeStoyko to 603.500000, 121.000000, -815.500000]
+[05:36:07] [Server thread/INFO]: [stoykoooo: Teleported AdrianadeStoyko to stoykoooo]
+[05:37:19] [Server thread/INFO]: [stoykoooo: Teleported AdrianadeStoyko to stoykoooo]
+[05:38:11] [Server thread/INFO]: [stoykoooo: Teleported stoykoooo to AdrianadeStoyko]
+[05:39:20] [Server thread/INFO]: [Not Secure] <GDPurity> ¿En qué capa les salió la Netherite?
+[05:39:26] [Server thread/INFO]: [Not Secure] <stoykoooo> 14
+[05:42:53] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=81, y=18, z=-70} ji{x=81, y=17, z=-69}
+[05:43:28] [Server thread/INFO]: [stoykoooo: Set the time to 1000]
+[05:46:42] [Server thread/INFO]: GDPurity lost connection: Disconnected
+[05:46:42] [Server thread/INFO]: GDPurity left the game
+[05:51:42] [Server thread/INFO]: AdrianadeStoyko lost connection: Disconnected
+[05:51:42] [Server thread/INFO]: AdrianadeStoyko left the game
+[05:51:44] [Server thread/INFO]: stoykoooo lost connection: Disconnected
+[05:51:44] [Server thread/INFO]: stoykoooo left the game
+[05:51:56] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:287) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:345) ~[?:?]
+	at java.base/java.io.BufferedInputStream.implRead(BufferedInputStream.java:420) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:399) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:350) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:393) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:217) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:171) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:188) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:160) ~[?:?]
+	at java.base/java.io.BufferedReader.implReadLine(BufferedReader.java:370) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:347) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:436) ~[?:?]
+	at apu$1.run(SourceFile:102) [server-1.21.4.jar:?]

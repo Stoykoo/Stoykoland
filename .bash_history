@@ -48,3 +48,26 @@ nano server.properties
 ./start.sh 
 sudo apt update
 sudo apt install git
+git config --global user.name "Gabriel Martinez"
+git config --global user.email "stoykojrr@gmail.com"
+ssh-keygen -t ed25519 -C "stoykojrr@gmail.com"
+cat ~/.ssh/id_ed25519.pub
+git remote add origin git@github.com:Stoykoo/Stoykoland.git
+ls
+world/
+git remote add origin git@github.com:Stoykoo/Stoykoland.git
+git init
+git add .
+git commit -m "Primer commit"
+ls
+git branch -M main
+git push -u origin main
+git remote -v
+git remote add origin git@github.com:Stoykoo/Stoykoland.git
+ssh -T git@github.com
+git push -u origin main
+./start.sh 
+nano server.properties 
+./start.sh 
+nano server.properties 
+./start.sh 

@@ -1,0 +1,87 @@
+[05:36:27] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05:36:30] [ServerMain/INFO]: Loaded 1370 recipes
+[05:36:30] [ServerMain/INFO]: Loaded 1481 advancements
+[05:36:30] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[05:36:30] [Server thread/INFO]: Loading properties
+[05:36:30] [Server thread/INFO]: Default game type: SURVIVAL
+[05:36:30] [Server thread/INFO]: Generating keypair
+[05:36:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:36:30] [Server thread/INFO]: Using epoll channel type
+[05:36:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:36:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:36:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:36:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:36:30] [Server thread/INFO]: Preparing level "world"
+[05:36:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:36:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:36:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:36:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:36:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:36:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:36:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:36:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:36:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:36:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:36:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:36:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:36:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:36:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:36:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:36:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:36:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:36:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:36:39] [Server thread/INFO]: Time elapsed: 8332 ms
+[05:36:39] [Server thread/INFO]: Done (8.754s)! For help, type "help"
+[05:37:39] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[05:38:54] [Server thread/INFO]: stoykoooo[/79.127.202.194:54533] logged in with entity id 26 at (736.3085096764626, 63.0, -873.4568171744824)
+[05:38:54] [Server thread/INFO]: stoykoooo joined the game
+[05:43:14] [Server thread/INFO]: AdrianadeStoyko[/187.188.33.140:3946] logged in with entity id 978 at (743.1029100385847, 63.0, -848.5620309863655)
+[05:43:14] [Server thread/INFO]: AdrianadeStoyko joined the game
+[05:45:22] [Server thread/INFO]: [stoykoooo: Set the time to 13000]
+[05:47:17] [Server thread/INFO]: [stoykoooo: Teleported stoykoooo to 603.500000, 121.000000, -815.500000]
+[05:48:09] [Server thread/INFO]: [stoykoooo: Teleported stoykoooo to AdrianadeStoyko]
+[06:02:31] [Server thread/INFO]: [stoykoooo: Teleported stoykoooo to 603.500000, 121.000000, -815.500000]
+[06:03:12] [Server thread/INFO]: [stoykoooo: Teleported stoykoooo to AdrianadeStoyko]
+[06:03:49] [Server thread/INFO]: [stoykoooo: Teleported stoykoooo to 1091.000000, 46.100000, -1771.460000]
+[06:04:00] [Server thread/INFO]: [AdrianadeStoyko: Teleported AdrianadeStoyko to stoykoooo]
+[06:04:06] [Server thread/WARN]: Skipping player strafe phase because no player was found
+[06:06:59] [Server thread/INFO]: stoykoooo was blown up by stoykoooo
+[06:07:07] [Server thread/INFO]: [stoykoooo: Teleported stoykoooo to AdrianadeStoyko]
+[06:13:13] [Server thread/INFO]: stoykoooo has made the advancement [Free the End]
+[06:16:22] [Server thread/INFO]: stoykoooo has reached the goal [The Next Generation]
+[06:16:28] [Server thread/INFO]: AdrianadeStoyko has reached the goal [The Next Generation]
+[06:19:34] [Server thread/INFO]: stoykoooo has made the advancement [Remote Getaway]
+[06:19:36] [Server thread/INFO]: AdrianadeStoyko has made the advancement [Remote Getaway]
+[06:19:56] [Server thread/INFO]: [stoykoooo: Teleported stoykoooo to 334.100000, 70.000000, -983.250000]
+[06:22:06] [Server thread/INFO]: [AdrianadeStoyko: Teleported AdrianadeStoyko to stoykoooo]
+[06:23:12] [Server thread/WARN]: AdrianadeStoyko moved too quickly! 7.44490608231456,-3.868934457672964,-7.947097548480542
+[06:28:20] [Server thread/INFO]: AdrianadeStoyko has made the advancement [The City at the End of the Game]
+[06:29:12] [Server thread/INFO]: stoykoooo has made the advancement [The City at the End of the Game]
+[06:33:14] [Server thread/INFO]: [stoykoooo: Teleported stoykoooo to AdrianadeStoyko]
+[06:34:04] [Server thread/INFO]: [AdrianadeStoyko: Teleported stoykoooo to AdrianadeStoyko]
+[06:35:18] [Server thread/INFO]: [AdrianadeStoyko: Teleported AdrianadeStoyko to stoykoooo]
+[06:35:20] [Server thread/INFO]: stoykoooo has reached the goal [Sky's the Limit]
+[06:37:07] [Server thread/INFO]: [AdrianadeStoyko: Teleported stoykoooo to AdrianadeStoyko]
+[06:38:07] [Server thread/INFO]: [stoykoooo: Teleported stoykoooo to 334.100000, 70.000000, -983.250000]
+[06:38:07] [Server thread/INFO]: [AdrianadeStoyko: Teleported stoykoooo to AdrianadeStoyko]
+[06:38:11] [Server thread/INFO]: [stoykoooo: Teleported stoykoooo to 334.100000, 70.000000, -983.250000]
+[06:38:24] [Server thread/INFO]: [AdrianadeStoyko: Teleported AdrianadeStoyko to stoykoooo]
+[06:43:45] [Server thread/INFO]: AdrianadeStoyko lost connection: Disconnected
+[06:43:45] [Server thread/INFO]: AdrianadeStoyko left the game
+[06:46:06] [Server thread/INFO]: stoykoooo lost connection: Disconnected
+[06:46:06] [Server thread/INFO]: stoykoooo left the game
+[06:46:18] [Server thread/INFO]: stoykoooo[/128.14.192.246:54795] logged in with entity id 11406 at (737.4925919826087, 63.0, -854.6000317919317)
+[06:46:18] [Server thread/INFO]: stoykoooo joined the game
+[06:46:21] [Server thread/INFO]: [stoykoooo: Stopping the server]
+[06:46:21] [Server thread/INFO]: Stopping server
+[06:46:21] [Server thread/INFO]: Saving players
+[06:46:21] [Server thread/INFO]: stoykoooo lost connection: Server closed
+[06:46:21] [Server thread/INFO]: stoykoooo left the game
+[06:46:21] [Server thread/INFO]: Saving worlds
+[06:46:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:46:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06:46:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06:46:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:46:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:46:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:46:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

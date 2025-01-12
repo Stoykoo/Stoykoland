@@ -71,3 +71,8 @@ nano server.properties
 ./start.sh 
 nano server.properties 
 ./start.sh 
+git push -u origin main
+git commit -m "2do"
+git add .
+git commit -m "2do"
+./start.sh 
